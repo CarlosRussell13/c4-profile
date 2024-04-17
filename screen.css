@@ -15,8 +15,8 @@ body{
 img.pfp{
     position: relative;
     border-radius: 100%;
-    height: var(--nav-icon-size);
-    width: var(--nav-icon-size);
+    height: 100px;
+    width: 100px;
 }
 
 .pfp{
