@@ -7,40 +7,22 @@ body{
     color: #D2D2D2;
 }
 
-
-
 .left-side{
     display: flex;
     align-items: center;
 }
 
-img.miniPic{
+img.pfp{
     position: relative;
     border-radius: 50%;
     height: var(--nav-icon-size);
     width: var(--nav-icon-size);
 }
 
-.hero{
+.pfp{
     position: relative;
 }
 
-.heroimg{
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
-}
-
-.profilePic{
-    position: absolute;
-    border-radius: 50%;
-    border: 5px solid #FFFDFD;
-    height: 10em;
-    width: 10em;
-    left: 10%;
-    bottom: -15%;
-    transform: translate(-10%, -15%);
-}
 
 .name{
     display: flex;
